@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pearl-lab-sudo
+- 👋 Hi, I’m @LadyPearlOpoku
 - 👀 I’m interested in making impact 
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on any project relating to data science that can help me grow
